@@ -1,0 +1,3 @@
+[submodule "archiver"]
+	path = archiver
+	url = https://github.com/cloudfoundry/archiver.git
