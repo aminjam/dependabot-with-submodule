@@ -1,6 +1,6 @@
 module github.com/aminjam/dependabot-with-submodule
 
-replace code.cloudfoundry.org/archiver => ./archiver
+replace code.cloudfoundry.org/archiver => ../archiver
 
 go 1.16
 
