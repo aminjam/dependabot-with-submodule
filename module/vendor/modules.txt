@@ -1,4 +1,18 @@
 # code.cloudfoundry.org/archiver v0.0.0-00010101000000-000000000000 => ../archiver
 ## explicit
 code.cloudfoundry.org/archiver/compressor
+# code.cloudfoundry.org/garden v0.0.0-00010101000000-000000000000 => ../garden
+## explicit
+code.cloudfoundry.org/garden
+code.cloudfoundry.org/garden/client
+code.cloudfoundry.org/garden/client/connection
+code.cloudfoundry.org/garden/routes
+code.cloudfoundry.org/garden/transport
+# code.cloudfoundry.org/lager v2.0.0+incompatible
+code.cloudfoundry.org/lager
+# github.com/bmizerany/pat v0.0.0-20210406213842-e4b6760bdd6f
+github.com/bmizerany/pat
+# github.com/tedsuo/rata v1.0.0
+github.com/tedsuo/rata
 # code.cloudfoundry.org/archiver => ../archiver
+# code.cloudfoundry.org/garden => ../garden
